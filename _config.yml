@@ -1,0 +1,11 @@
+# Site settings
+title: R. D. Hutchins @ Github
+# email: (unset)
+description: > # this means to ignore newlines until "baseurl:"
+  My first github.io site.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://rdhutchins.github.io" # the base hostname & protocol for your site
+github_username:  rdhutchins
+
+# Build settings
+markdown: kramdown
